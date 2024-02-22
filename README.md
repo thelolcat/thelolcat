@@ -3,4 +3,5 @@ I'm thelolcat, a beginner developer, and I mostly create games on Godot. I also 
 
 <div align="left">
   <img src="https://github.com/thelolcat/thelolcat/blob/main/icon.svg" alt="Godot Engine" width="100" height="auto">
-</div>
+  <img src="https://github.com/AlessTheDev/AlessTheDev/blob/main/c_sharp.svg" alt="C#" width="100" height="auto">
+  </div>
