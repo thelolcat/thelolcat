@@ -5,4 +5,10 @@ I'm thelolcat, a beginner developer, and I mostly create [games](https://thelolc
 <div align="left">
   <img src="https://github.com/thelolcat/thelolcat/blob/main/icon.svg" alt="Godot Engine" width="100" height="auto">
   <img src="https://github.com/AlessTheDev/AlessTheDev/blob/main/c_sharp.svg" alt="C#" width="100" height="auto">
+  
+<!-- planned changes
+  
+  <img src="https://github.com/raysan/raylib
+
+  -->
   </div>
