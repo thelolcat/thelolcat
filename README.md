@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm thelolcat, a beginner developer, and I mostly create games on Godot. I also know bits of C#, Python and HTML!
+I'm thelolcat, a beginner developer, and I mostly create [games](https://thelolcat.itch.io) on Godot. I also know bits of C#, Python and HTML! Currently planning to check out Raylib!
 
 <!--thanks to AlessTheDev for the image inserting idea-->
 <div align="left">
