@@ -8,7 +8,7 @@ I'm thelolcat, a beginner developer, and I mostly create [games](https://thelolc
   <a href="https://godotengine.org">
   <img src="https://godotengine.org/assets/logo_dark.svg" alt="Godot Engine" width="auto" height="100"></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp">
-  <img src="https://github.com/AlessTheDev/AlessTheDev/blob/main/c_sharp.svg" alt="C#" width="100" height="auto"></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?20180210215736" alt="C#" width="120" height="auto"></a>
 
   <!-- raylib -->
   <a href="https://raylib.com">
