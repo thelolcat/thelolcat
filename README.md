@@ -14,6 +14,3 @@ I'm thelolcat, a beginner developer, and I mostly create [games](https://thelolc
   <a href="https://raylib.com">
   <img src="https://github.com/raysan5/raylib/blob/master/logo/raylib_logo_animation.gif" alt="raylib" width="100" height="auto">
   </a><br>
-  
-<a href="https://github.com/thelolcat"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thelolcat&theme=dracula" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thelolcat&theme=dracula" height="180em" />
-</div>
